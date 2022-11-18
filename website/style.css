@@ -1,0 +1,131 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+.header{
+    background-image:linear-gradient(rgba(2,2,20,0.4), rgb(2,2,20,0.1)),url(img/hotel.jfif);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    height: 33rem;
+}
+.navbar{
+    display: flex;
+}
+.navbar img{
+    padding: 2.188rem 0.5rem;
+    padding-left: 5.563rem;
+    height: 4.375rem;
+}
+.navEle{
+    display: flex;
+    padding: 2.75rem 3.125rem 0.75rem 4.063rem;
+}
+.navEle ul li{
+list-style: none;
+display: inline-block;
+position:relative ;
+padding: 0rem 0.5rem;
+font-size: 1.125rem;
+}
+.navEle ul li a{
+    font-family: IntervalNextReg, sans-serif;
+    text-decoration: none;
+    color: white;
+}
+.btn{
+    width: 11.625rem;
+    height: 2.5rem;
+    border-radius: 0.625rem;
+    background-color: #95cfd5;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+}
+.button{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.p{color: white;
+    padding-top: 1.25rem;
+    font-size: 1.875rem;
+    font-family: 'Brush Script MT', cursive;
+}
+.rigth-nav{
+    padding: 1.188rem 2.438rem 2.313rem 6.375rem;
+    display: flex;
+    font-size: 1.125rem;
+}
+.left-nav{display: flex;}
+.btn2{
+    font-size: 1rem;
+    width: 5rem;
+    height: 2.125rem;
+    padding-right:0.438rem;
+    border-radius: 0.625rem;
+    background-color: #75afb5;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+}
+.bbtn{padding-left: 11px;}
+.rigth-nav a{
+    text-decoration: none;
+    color: white;
+    font-family: IntervalNextReg, sans-serif;
+}
+.p2{
+    padding-left: 4.438rem;
+    color: white;
+    font-size: 4.375rem;
+   
+}
+.mid p{
+    margin-block-start: .2rem;
+    margin-block-end: 2.2rem;
+}
+.q{display: flex;
+    padding-left: 4.063rem;}
+#inbox{border-radius: 30px;
+    height: 42px;
+    width: 42rem;
+    font-size: 1.2rem;
+    color: #857b7b;    
+    padding-left: 1.375rem;}
+.inbox{padding-left: 3.938rem;}
+.btn3{
+    border-radius: 1.875rem;
+    width:6.063rem;
+    height: 2.625rem;
+    border-color: #777c81;
+    color: #fffefd;
+    font-size: 1.1rem;
+    padding: 0.188rem;
+    background-color: #7ab6d9;
+}
+.img img{
+    width: 12rem;
+    height: 19rem; 
+    border-radius: 0.813rem; 
+}
+.img{ display: flex;
+    padding-left: 3.438rem;}
+.Explore h3{
+    font-size: 2.6rem;
+    color: #363738;
+    margin-block-start: 1em;
+    padding-left: 77px;
+    margin-block-end: 0.1em;
+    font-family: IntervalNextReg, sans-serif;
+}
+.im{padding-left: 1.25rem;}
+.Explore p{
+    font-family: IntervalNextReg, sans-serif;
+    color: #525456;
+    padding-left: 4.813rem;
+}
+
+
+
+
